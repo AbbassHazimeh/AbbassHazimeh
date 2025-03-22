@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Frontend and Backend**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/abbasshazimeh](www.linkedin.com/in/abbasshazimeh)
+- 📝 I regularly write articles on [www.linkedin.com/in/abbasshazimeh](https://www.linkedin.com/in/abbasshazimeh)
 
 - 💬 Ask me about **Java, PHP, ASP.Net Core**
 
