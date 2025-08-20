@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **abbasshazimeh700@gmail.com**
 
-- 📄 Know about my experiences [https://black-lexie-84.tiiny.site](https://black-lexie-84.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
