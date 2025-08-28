@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AZ Express Shipping**
 
-- 🌱 I’m currently learning **ASP.Net Core**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
