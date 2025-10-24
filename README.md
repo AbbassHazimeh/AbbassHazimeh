@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **AZ Express Shipping**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Web development Projects**
+- 👯 I’m looking to collaborate on **Software development Projects**
 
 - 🤝 I’m looking for help with **Frontend and Backend**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/abbasshazimeh](https://www.linkedin.com/in/abbasshazimeh)
 
-- 💬 Ask me about **Java, PHP, ASP.Net Core**
+- 💬 Ask me about **Java, Springboot, React.js, Next.js, PHP, ASP.Net Core**
 
 - 📫 How to reach me **abbasshazimeh700@gmail.com**
 
