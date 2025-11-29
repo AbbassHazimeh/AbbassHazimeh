@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Software development Projects**
 
-- 🤝 I’m looking for help with **Frontend and Backend**
-
 - 📝 I regularly write articles on [www.linkedin.com/in/abbasshazimeh](https://www.linkedin.com/in/abbasshazimeh)
 
 - 💬 Ask me about **Java, Springboot, React.js, Next.js, PHP, ASP.Net Core**
